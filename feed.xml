@@ -4,215 +4,215 @@
 <link>https://pubmed.ncbi.nlm.nih.gov/</link>
 <description>Publications PubMed récentes : disaster victim identification, PMCT, forensic imaging (flux généré quotidiennement par GitHub Action)</description>
 <language>en</language>
-<lastBuildDate>Sat, 03 Oct 2026 11:42:35 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 12:25:04 +0000</lastBuildDate>
 <item>
 <title>Multi-View Elliptic Fourier Analysis of the Sternum for Automated Postmortem-to-Antemortem Computed Tomography Candidate Ranking.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42816680/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42816680/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Journal of imaging informatics in medicine (2026)</b> — Ichikawa S, Kondo Y, Kondo T, Takahashi N</p><p>Accurate postmortem-to-antemortem computed tomography (CT) candidate ranking can support personal identification in forensic radiology, but scalable methods remain needed. The sternum is included in routine chest and postmortem CT, but its thin, flat morphology may not be fully captured by conventional global three-dimensional (3D) shape features. We evaluated whether a multi-view contour representation based on elliptic Fourier analysis (EFA) could improve sternum-based CT candidate ranking over conventional 3D radiomic shape features. Paired antemortem and postmortem CT scans from an institutional dataset were analyzed against a reference database augmented with public chest CT scans as distractors. Sternum masks were automatically segmented and underwent Mahalanobis distance-based quality control. Area-normalized elliptic Fourier descriptors were extracted from coronal, sagittal, and axial projections of pose-normalized masks. For internal evaluation, leave-one-person-out cross-fitting separated selection of the view combination and harmonic order from held-out evaluation. The analysis included 58 postmortem queries and 985 antemortem references. Using cross-fitted configuration…</p>]]></description>
 </item>
 <item>
 <title>Archived medical specimens as antemortem DNA references for disaster victim identification, optimization study following the October 7 massacre.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42814130/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42814130/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>International journal of legal medicine (2026)</b> — Ido A, Avrahami K, Feinberg T, Itzhaki-Alfia A, Herman Y</p><p>The October 7, 2023 terrorist attack in Israel resulted in over 1,200 casualties, creating unprecedented disaster victim identification (DVI) challenges. Traditional ante-mortem (AM) reference methods using personal items proved insufficient as entire families were affected. We implemented a novel strategy utilizing archived medical specimens from Ministry of Health repositories to construct a self-direct-reference antemortem (AM) DNA database. This study systematically evaluates factors affecting STR profiling success from 151 archived clinical specimens (2003-2023): histological samples (FFPE blocks/cytology slides, n = 131), diagnostic swabs (n = 8), and blood/serum (n = 12). Four variables were assessed: tissue source, extraction method, incubation protocol, and sample age. DNA was amplified using Investigator 24plex Kit, success measured by informative autosomal STR loci obtained (maximum 21). Descriptive and non-parametric inferential statistical analyses were applied to compare profiling outcomes across variable conditions, confirming statistically significant differences between sample types and methods. This study demonstrates that archived medical specimens represent reli…</p>]]></description>
 </item>
 <item>
 <title>Postmortem computed tomography findings in homicide victims stratified by injury mechanism: a retrospective descriptive case series correlated with conventional autopsy.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42800205/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42800205/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Legal medicine (Tokyo, Japan) (2026)</b> — Higashibori H, Fukumoto W, Mitani H, Harada T, Katsuya N, Oka H</p><p>To evaluate the diagnostic utility and inherent limitations of postmortem computed tomography (PMCT) in homicide investigations by correlating imaging findings with conventional autopsy results across diverse injury mechanisms.</p>]]></description>
 </item>
 <item>
 <title>Signed in bone: Toolmark identification of a machete and multidisciplinary 3D reconstruction in a homicide investigation.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42799376/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42799376/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Forensic science international. Synergy (2026)</b> — Kirbach M, Holzer A, Frey L, Tegou A, Helmrich S, Rothschild MA</p><p>This study presents a homicide case involving sharp force trauma. A chop mark in the parietotemporal skull provided very strong support for the proposition that it was produced by the seized machete, based on conventional comparison microscopy and optical comparison of 3D surface scan data. This result was further supported by quantitative comparison using normalized cross-correlation (XCorr = 0.73) of the striated mark in the bone and the produced test marks of the machete. By integrating findings from toolmark examination, forensic pathology, postmortem CT (pmCT) imaging, bloodstain pattern analysis, and crime scene documentation, a three-dimensional reconstruction of the moment of impact was created. This case demonstrates the value of toolmark analysis of sharp force trauma in homicide investigations. It also highlights the potential of integrating multiple forensic disciplines to generate comprehensive three-dimensional reconstructions of violent crimes for use in criminal investigations and the presentation of forensic evidence in court.</p>]]></description>
 </item>
 <item>
 <title>Accelerated DNA profiling through workflow reconfiguration: Practical experience from 2-year postmortem skeletal remains in hostage repatriation.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42798225/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42798225/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Journal of forensic sciences (2026)</b> — Shenfeld MN, Spivak-Kroizman T, Bader G, Maydan SA, Sharon NA, Peer M</p><p>The identification of human remains in mass-casualty incidents requires rapid and reliable forensic DNA analysis, particularly when dealing with degraded skeletal material. Although rapid forensic identification is a fundamental objective in all disaster victim identification (DVI) operations, the repatriation of deceased hostages from the October 7, 2023, attack, c. 2 years postmortem (PM), imposed an additional challenge of a fixed operational deadline dictated by the implementation of the hostages-prisoners exchange agreement. To accelerate STR profiling, we reconfigured the conventional sequential process (extraction, quantification, amplification) into a flexible, decision-driven workflow. The new workflow incorporates a shortened 1.5-h DNA incubation, predefined dual-volume PCR amplification, and deferred DNA quantification. Built-in contingency mechanisms including multi-sample per case and enhanced 33-Cycle PCR-enabled immediate progression to alternative pathways when required. The accelerated workflow was applied in a real-world operational setting involving 37 cases (79 samples) collected during multiple repatriation phases. Informative STR profiles were obtained from 90…</p>]]></description>
 </item>
 <item>
 <title>Technical note: derivation and evaluation of practical PMCT display window parameters for frozen brain tissue.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42790316/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42790316/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Legal medicine (Tokyo, Japan) (2026)</b> — Zhang Y, Ni S, Sun Y, Zhang C, Zhang Y, Zhu X</p><p>Frozen cadavers are common in forensic practice. When examining frozen cadaver brains with conventional clinical CT brain windows, brain tissue exhibits a "completely black" appearance precluding assessment. This study aimed to derive and evaluate CT display window parameters for frozen brain tissue to optimize image quality and assist forensic image interpretation.</p>]]></description>
 </item>
 <item>
 <title>Gas, Gaps, and Grayscale: A pattern-based postmortem computed tomography approach in recognizing heat hematoma in charred bodies.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42789245/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42789245/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Forensic science, medicine, and pathology (2026)</b> — Bansal S, S K, Bhutia KO, Neha S, Meshram R, Bastia BK</p><p>Thermal injury produces significant postmortem alterations that may mimic traumatic intracranial haemorrhage, posing a diagnostic challenge during medicolegal investigation. This study aimed to describe a pattern-based approach for recognising heat hematoma on postmortem computed tomography (PMCT) in fatal fire exposure cases by highlighting characteristic imaging features that may assist forensic interpretation. Two cases of fatal fire exposure underwent non-contrast PMCT before conventional medicolegal autopsy. PMCT findings were systematically evaluated for morphology, attenuation, distribution, and associated intracranial features of epidural collections, including intralesional gas, intradiploic gas, dural separation, brain volume changes, and mass effect. PMCT showed diffuse extra-axial collections along the cerebral convexities with an irregular, predominantly crescentic morphology and heterogeneous low attenuation (approximately 30-62 HU), reflecting multiple scattered intralesional air locules and thermally altered blood. The collections were associated with separation of dura mater from the inner table, resulting in widening of the epidural space. Generalised brain volume…</p>]]></description>
 </item>
 <item>
 <title>Right coronary artery ectasia with a focal aneurysm in a decomposed body: Non-contrast postmortem CT and autopsy correlation.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42789244/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42789244/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Forensic science, medicine, and pathology (2026)</b> — Usui A, Mimasaka S, Funayama M, Kaneta T</p><p>Herein, we present a case involving a markedly decomposed body in which non-contrast postmortem computed tomography (PMCT) demonstrated long-segment right coronary artery ectasia with focal aneurysmal dilatation. A man estimated to be in his 30s was found dead 12 days after he had last been confirmed alive. PMCT showed extensive decomposition-related gas and identified a conspicuously dilated segment along the anatomical course of the right coronary artery. Curved planar reformations showed that the dilated segment measured approximately 106 mm in length. Autopsy confirmed focal aneurysmal dilatation of the right coronary artery and cardiomegaly. Dark red intraluminal material was present in one cross-section, but advanced decomposition and autolysis precluded confirmation of antemortem thrombosis or acute myocardial infarction. This case illustrates the value and limitations of non-contrast PMCT for documenting coronary morphology in markedly decomposed bodies.</p>]]></description>
 </item>
 <item>
 <title>The closing kinship window: a continuous identification framework centred on kinship for historical and postconflict mass graves.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42778659/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42778659/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>International journal of legal medicine (2026)</b> — Sanchis-Gimeno JA, Schwab ME, Valenzuela-Fuenzalida JJ, Granite G</p><p>Historical and post-conflict mass grave programmes increasingly recover genetic profiles from skeletal remains, yet final identification may remain limited when family reference collection, post-mortem analysis, matching and re-analysis are organised as separate projects. This evidence-informed framework development study presents the Kinship-Centred Continuous Identification Framework for settings in which the possible victim set is open or uncertain. Framework development is defined as the integration of established evidence and operational standards into a time-ordered system with explicit decision points, feedback pathways and governance requirements; individual components are not claimed as novel. A purposive evidence map covering database inception to 9 May 2026 identified recurrent operational bottlenecks across legal medicine, forensic genetics, humanitarian forensic action, archaeology, anthropology, disaster victim identification and transitional justice. The synthesis produced seven design principles and ten implementation components. The framework begins before excavation with mandate clarification, a provisional candidate-victim list, genealogical triage and prioritise…</p>]]></description>
 </item>
 <item>
 <title>Awareness of Forensic Odontology and Curriculum Gaps Among Dental Professionals in Pakistan: A Cross-Sectional Study.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42771832/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42771832/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>European journal of dental education : official journal of the Association for Dental Education in Europe (2026)</b> — Shahid R, Liaqat A, Farrukh M, Hussain S, Arfat H, Anas M</p><p>Forensic odontology plays an important role in human identification and medico-legal investigations. This study aimed to assess self-reported awareness, attitudes, educational exposure, and perceived curriculum gaps related to forensic odontology among dental professionals and students in Pakistan.</p>]]></description>
 </item>
 <item>
 <title>Humanitarian forensics: Advancing justice, accountability, and human rights.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42766459/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42766459/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Indian journal of medical ethics (2026)</b> — Sunusi AM, Mohammed US, Das A, Singh GK</p><p>Humanitarian forensics is an expanding multidisciplinary field that uses forensic science to support humanitarian operations in post-conflict, catastrophe, and human-rights contexts. This commentary underscores the pivotal importance of forensic methodologies in the identification of victims, investigation of human rights violations, and pursuit of justice and accountability in mass atrocities and war crimes. It also elucidates, with examples, the significance of forensic methodologies in disaster victim identification, international tribunal prosecutions, and providing resolution to families of missing persons. The evolution of humanitarian forensics is examined, from initial applications during World War II to the establishment of protocols by international organisations. Suggestions are offered for improving forensic capability, interdisciplinary cooperation, and incorporating developing technologies. Ethical and logistical issues, including cultural sensitivity, data management, and the balancing of legal and humanitarian goals are examined. Humanitarian forensics plays a vital role in upholding international humanitarian law and advancing peace, justice, and healing after majo…</p>]]></description>
 </item>
 <item>
 <title>Beyond the limits of space and time: Can 4D imaging enhance postmortem investigation?</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42766191/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42766191/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>European radiology experimental (2026)</b> — Gascho D, Palmesino M, Thali MJ, Guareschi EE</p><p>Postmortem imaging has become an integral component of modern forensic pathology, with postmortem computed tomography (PMCT) and magnetic resonance (PMMR) imaging now routinely supplementing or, in selected cases, partially replacing conventional autopsy. Despite these advances, postmortem imaging remains predominantly static, capturing anatomy and injuries at a single point in time after death. In contrast, clinical radiology has increasingly embraced four-dimensional (4D) imaging approaches that incorporate time as a diagnostic dimension, enabling the assessment of motion, functional change, and dynamic processes. This narrative review with a conceptual perspective explores whether and how 4D concepts can be meaningfully translated into postmortem forensic imaging. By reviewing simulated motion models, multiphase PMCT angiography, ventilated PMCT, serial documentation of postmortem biological and physical processes, fracture mechanics research, and PMMR spectroscopy, it can be argued that time is already an implicit diagnostic dimension in forensic radiology. Although true real-time 4D imaging of the deceased remains technically limited, existing studies demonstrate that temporal…</p>]]></description>
 </item>
 <item>
 <title>Radiomics and machine learning for differentiating pediatric intramedullary spinal tumors: a pilot study.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42766077/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42766077/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>European radiology experimental (2026)</b> — Iacoban CG, Alvansazyazdi S, Parodi C, Kenari BS, Ramaglia A, Mercuri C</p><p>Conventional magnetic resonance imaging faces limitations in differentiating among pediatric intramedullary spinal tumors (IMSTs). We evaluated radiomics-based machine learning (ML) models using sagittal T2-weighted images to differentiate pilocytic astrocytomas (PA) and ependymomas (EP), independently, from other IMSTs.</p>]]></description>
 </item>
 <item>
 <title>Diagnostic value of external and internal neck findings in fatal strangulation: a scoping review of the forensic pathology literature.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42762388/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42762388/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Forensic science, medicine, and pathology (2026)</b> — Alraythi MS, Alfarayedhi MA</p><p>This scoping review maps the forensic-pathology literature on the diagnostic value of external and internal neck findings in fatal manual and ligature strangulation, and on findings used to differentiate strangulation from hanging and homicidal from suicidal manner of death. A scoping review was conducted in accordance with Joanna Briggs Institute methodology [1] and reported following PRISMA-ScR [2]. PubMed/MEDLINE and Europe PMC were searched in April 2026; title/abstract and full-text screening were performed by a single reviewer with supervisor consultation. Findings were reported using three pre-specified inference categories: confirmed, contested, and hypothesis-generating. Sixteen studies reporting on approximately 1,500 cases across eight world regions met eligibility criteria. Manual strangulation produced a higher laryngohyoid fracture burden than ligature strangulation across nationwide series. Two findings from the Berlin institute cohort of Maxeiner and Bockholdt - laryngeal muscle hemorrhage and fractures of more than one thyroid superior horn - reached 0% prevalence in suicidal ligature strangulation, providing a high-specificity indicator panel for homicidal manner …</p>]]></description>
 </item>
 <item>
 <title>Subclassification of Vieth stage 4 in MRI of the proximal tibial epiphysis: a pilot study for forensic age estimation.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42762297/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42762297/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>International journal of legal medicine (2026)</b> — Chitavishvili N, Wittschieber D, Papageorgiou I, Malich A, Mentzel HJ, Hahnemann ML</p><p>The MRI-based staging system introduced by Vieth et al. has been successfully validated for assessment of the proximal tibial epiphysis. Our previous validation study suggested that additional information regarding completion of the 16th or 18th year of life might be obtained by applying a more fine-grained subclassification of Vieth stage 4. Therefore, the present pilot study investigated the feasibility and potential forensic value of a subclassification of Vieth stage 4. The study cohort comprised 57 T1-weighted MRI examinations of the proximal tibial epiphysis (24 males and 33 females) previously assigned to Vieth stage 4. All examinations were re-assessed using newly defined morphological criteria, allowing Vieth stage 4 to be further subdivided into three novel substages (4a-4c). All cases could be assigned to one of the proposed substages, although substage 4a occurred in only five individuals. Minimum ages in males were 15.45, 15.68, and 15.23 years for substages 4a, 4b, and 4c, while the minimum ages in females were 12.64, 12.57, and 13.18 years. Intra- and interobserver agreement were good (κ = 0.751 and κ = 0.663, respectively). The findings demonstrate that a morphologi…</p>]]></description>
 </item>
 <item>
 <title>A multi-task learning-based deep learning model for precise estimation of rib fracture age on chest CT.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42733047/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42733047/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>International journal of legal medicine (2026)</b> — Sun YN, Wan L, Yu XY, Wang MW, Zhu K, Li YZ</p><p>Rib fractures are a common type of chest injury, and the estimation of the fracture age mainly relies on clinical or forensic imaging experts making rough judgments based on CT scans, which is highly subjective. In recent years, artificial intelligence (AI) models have performed exceptionally well in rib fracture detection tasks, providing a potential technical foundation for inferring the time of fracture formation. Therefore, it is necessary to develop deep learning model tools to assist human judgment. In this study, a multi-task deep learning model (based on the 3D-ResNet18) was developed to predict the rib fracture age, classify their healing stages, and identify fracture types concurrently. The model was trained on a multicenter dataset comprising 1,848 rib fractures derived from chest CT scans and demonstrated generalizability in external testing. Specifically, the model achieved a mean absolute error (MAE) of 7.94 days and an accuracy (ACC) of 71.18% in the fracture age prediction and healing stage classification tasks, respectively, outperforming manual evaluation (MAE: 10.65 days). Additionally, the model achieved an ACC of 94.71% in the fracture type classification task.</p>]]></description>
 </item>
 <item>
 <title>Radiopaque ring sign as a distinct finding at the entry site of gunshot wounds on postmortem CT.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42730757/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42730757/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>International journal of legal medicine (2026)</b> — Rajendran RS, Bolliger SA, Thali MJ, Gascho D</p><p>Postmortem computed tomography (PMCT) is widely used in the evaluation of gunshot wounds, particularly for the assessment of projectile trajectories and osseous injury patterns. Radiologically hyperdense findings at the wound margin are frequently attributed to gunshot residue (GSR), yet their morphology and underlying mechanisms remain insufficiently differentiated. In particular, different types of hyperdense patterns at the entry site have not been systematically distinguished, despite their potential forensic relevance.</p>]]></description>
 </item>
 <item>
 <title>Detection of myocardial infarction by postmortem CT combined with radiomics-based machine-learning analysis.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42726426/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42726426/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>European radiology experimental (2026)</b> — Barman NC, Rastogi A, Radbruch A, Luetkens JA, Wittschieber D, Hahnemann M</p><p>To determine whether quantitative radiomic features extracted from noncontrast postmortem computed tomography (PMCT) can reliably detect autopsy-confirmed myocardial infarction (MI), and to evaluate the diagnostic performance of machine-learning models for automated MI detection.</p>]]></description>
 </item>
 <item>
 <title>Mapping two decades of forensic virtopsy: a comprehensive bibliometric analysis (2006-2025).</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42711470/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42711470/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>International journal of legal medicine (2026)</b> — Liu X, Han Z, Duan Y, Yang T</p><p>This study presents a comprehensive bibliometric analysis of the forensic post-mortem forensic imaging research domain, examining its evolution from 2006 to 2025. A total of 1,635 relevant publications were retrieved from the Web of Science Core Collection. Using analytical tools including VOSviewer, CiteSpace, and Bibliometrix, we systematically investigated the field's growth trajectory, intellectual structure, collaborative networks, and research fronts. The analysis revealed significant expansion in annual scientific production, with an 11.47% compound annual growth rate. Key journals such as Forensic Sci Int and Int J Legal Med were identified as central publication hubs. Michael J. Thali emerged as the most influential author, while Switzerland and Japan were the leading contributing countries. Analysis of highly cited documents, centrality, and citation bursts identified foundational works that established the paradigm and key methodological advancements. Thematic evolution mapping illustrated the field's progression from foundational comparisons to specialized applications and, more recently, toward mechanistic synthesis focused on the process of death. The current thematic…</p>]]></description>
 </item>
 <item>
 <title>Whole-axis versus odontoid process CBCT radiomics for forensic sex estimation: a retrospective paired-ROI model-development study.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42711468/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42711468/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>International journal of legal medicine (2026)</b> — Tekin A, Deveci B, Tekin G, Ay F</p><p>The second cervical vertebra (C2, axis) is included in head-and-neck cone-beam computed tomography (CBCT) and may provide a target for forensic sex estimation. Whether odontoid-only segmentation preserves whole-C2 radiomic information remains unclear.</p>]]></description>
 </item>
 <item>
 <title>Introduction to the "Forensic Radiology" series.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42711017/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42711017/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Radiologia (2026)</b> — Plasencia-Martínez JM</p>]]></description>
 </item>
 <item>
 <title>Age and sex estimation from Japanese femoral computed tomographic images using foundation models.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42706467/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42706467/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>International journal of legal medicine (2026)</b> — Torimitsu S, Ikari H, Tsuneya S, Uemura Y, Okada M, Kojima M</p><p>This study evaluated the feasibility and performance of a deep learning-based multitask framework for estimating sex and age using femoral CT images in a Japanese population.</p>]]></description>
 </item>
 <item>
 <title>Next-generation forensic 3D surface documentation with projection-assisted digital spray multicamera photogrammetry and 3D gaussian splatting.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42700311/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42700311/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Forensic science, medicine, and pathology (2026)</b> — Thali M, Herr J, Gascho D</p><p>Accurate injury documentation is essential in forensic medicine, however conventional two-dimensional imaging methods are limited in their ability to capture spatial morphology and enable retrospective three-dimensional (3D) reassessment. Although multicamera photogrammetry has significantly advanced forensic surface documentation, challenges remain when imaging with low texture, homogeneous coloration, or reflective properties. This study presents an integrated workflow combining multicamera photogrammetry with projection-assisted acquisition using a digital spray mode to improve surface reconstruction under optically challenging conditions. Technical feasibility was evaluated using a handbag, a mannequin, and a voluntary participant with simulated injuries applied as adhesive tattoos, acquired using the Botspot full-body scanner NEO system. The workflow generated anatomically coherent full-body 360° models with high-fidelity texture representation, enabling clear visualization, identification and retrospective 3D measurement of simulated injuries. Compared with conventional passive acquisition, the digital spray mode improved reconstruction completeness and feature-matching stabi…</p>]]></description>
 </item>
 <item>
 <title>Medico-legal governance of mass fatality incidents: A scoping review of forensic organisational models, operational vulnerabilities and lessons learned.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42693386/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42693386/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Medicine, science, and the law (2026)</b> — Sirago G, Esposito M, Sessa F, Salerno M, Solarino B, Dell'Erba A</p><p>Mass fatality incidents place forensic medicine at the intersection of death investigation, public health, criminal justice, emergency management and institutional risk governance. Although disaster victim identification (DVI) is supported by international standards, the literature remains fragmented across case reports, technical guidance, discipline-specific accounts and after-action lessons. This scoping review mapped the medico-legal organisational evidence on mass fatality management, with particular attention to forensic governance models, operational vulnerabilities and transferable lessons for preparedness and quality assurance. Searches identified 2253 records in PubMed/MEDLINE, Scopus and Web of Science. After removal of 477 duplicates, 1776 records were screened; 93 reports were sought and retrieved for eligibility assessment; and 50 sources were retained for synthesis, including 39 core forensic-organisational sources and 11 supportive/contextual operational sources. The evidence converged on eight interdependent domains: pre-event governance and readiness; scene recovery and preservation of identity evidence; mortuary throughput; ante-mortem/post-mortem information gov…</p>]]></description>
 </item>
 <item>
 <title>Role of CT in Forensic Imaging.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42671958/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42671958/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Radiologic technology (2026)</b> — Vincent JM</p>]]></description>
 </item>
 <item>
 <title>Postmortem CT findings of cardiac and great-vessel blood clots in fatal hypothermia: comparison with autopsy measurements.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42667862/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42667862/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Legal medicine (Tokyo, Japan) (2026)</b> — Takeuchi A, Jin S, Kiuchi T, Matoba T, Hara Y, Murakami M</p><p>This study aimed to investigate the relationship between the clot weight-to-blood volume ratio in postmortem cardiovascular blood measured at autopsy and clot findings on postmortem computed tomography (PMCT) in fatal hypothermia.</p>]]></description>
 </item>
 <item>
 <title>Adult age estimation using multi-domain mandibular CT features from postmortem head CT: Exploratory internal validation with nested cross-validation and age-band-specific error analysis.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42659828/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42659828/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Legal medicine (Tokyo, Japan) (2026)</b> — Yamashita H, Abe Y, Shinba Y, Kohyama T, Takei S, Murase T</p><p>Adult age estimation remains difficult because post-maturational skeletal changes are gradual and heterogeneous. We evaluated multi-domain mandibular features extracted from postmortem computed tomography (PMCT) of the head and quantified overall, age-band-specific, sex-specific, and scanner-specific error patterns. This single-institution retrospective study included 1723 individuals aged 20-100 years, with one examination per individual. The mandible and teeth-related structures were segmented with TotalSegmentator version 2.12.0; mandibular pose was standardized; and dental metal- and tooth-affected regions were excluded. HU-related features, cortical-thickness proxies, apparent trabecular parameters, medullary-expansion and porosity proxies, and morphometric features were extracted. Candidate feature sets were selected within each outer training set by three-fold inner cross-validation, and HistGradientBoostingRegressor was evaluated by five-fold outer cross-validation. Predicted and chronological age correlated at r = 0.628; MAE was 10.34 years, RMSE 13.17 years, bias -0.02 years, and p90_abs 21.67 years. MAE was 9.10 years in females and 10.97 years in males. Bias was +24.38 …</p>]]></description>
 </item>
 <item>
 <title>Genetic Identification of Burned Human Remains: A Systematic Review.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42650074/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42650074/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Genes (2026)</b> — Sessa F, Francaviglia M, Dervišević E, Zuccarello P, Chisari M, Matera S</p>]]></description>
 </item>
 <item>
 <title>A diagnostic pitfall of postmortem CT in an abdominal stab wound: Peritoneal penetration without intraperitoneal gas or detectable intraperitoneal fluid.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42647978/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42647978/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>Legal medicine (Tokyo, Japan) (2026)</b> — Shimbashi S, Fukuoka Y, Hagita T, Tashiro A, Hyodoh H</p><p>Although intraperitoneal gas and fluid are important indirect findings suggesting peritoneal penetration on postmortem computed tomography (PMCT), these findings are not always present. We report a case of autopsy-confirmed peritoneal penetration without intraperitoneal gas or detectable intraperitoneal fluid on PMCT. A man in his 40s was found dead on a snowy slope with an abdominal stab wound. PMCT demonstrated discontinuity of the linea alba with interposition of adjacent fat tissue and a small mesenteric hematoma. However, neither intraperitoneal gas nor detectable intraperitoneal fluid was identified, and the wound was initially misinterpreted as superficial. Autopsy revealed a penetrating wound extending through the linea alba, greater omentum, transverse mesocolon, and small-bowel mesentery without injury to the bowel or solid organs. Intraperitoneal hemorrhage was minimal and not measurable, and hypothermia was determined to be the cause of death. This case demonstrates that the absence of intraperitoneal gas and detectable intraperitoneal fluid on PMCT does not exclude peritoneal penetration. Careful assessment of the wound tract and meticulous evaluation of subtle imaging…</p>]]></description>
 </item>
 <item>
 <title>Sentinel injuries in child abuse: a multidisciplinary approach.</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42645516/</link>
 <guid>https://pubmed.ncbi.nlm.nih.gov/42645516/</guid>
-<pubDate>Sat, 03 Oct 2026 11:42:35 +0000</pubDate>
+<pubDate>Sun, 04 Oct 2026 12:25:04 +0000</pubDate>
 <description><![CDATA[<p><b>International journal of legal medicine (2026)</b> — Costantino A, Grassi G, Corsello A, Iasi F, Ledda G, Cirillo M</p><p>Child maltreatment represents a major public health and forensic issue, frequently underdiagnosed and associated with severe short- and long-term consequences. Sentinel injuries (SI)-minor and unexplained findings such as bruises and fractures-are often the first clinical indicators of abuse and may precede more severe events. Their early recognition is therefore crucial for prevention. This narrative multidisciplinary pictorial review uses confirmed illustrative forensic-radiological cases from the University Hospital of Cagliari to provide a multidisciplinary overview of clinical, radiological, and forensic aspects of SI. These cases are organized by anatomical districts, focusing on abusive head trauma (AHT), rib, metaphyseal fractures, and bruising patterns with higher specificity for abuse. Differential diagnoses, including bone fragility and coagulation disorders, must also be considered. Imaging, particularly skeletal surveys with follow-up, chest and cranial studies, plays a central role but is often inconsistently applied. The probabilistic nature of abuse diagnosis requires integration of medical findings with psychosocial, contextual, and investigative information. A mul…</p>]]></description>
 </item>
 </channel></rss>
